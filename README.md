@@ -1,3 +1,5 @@
+# Notas
+Desenvolvimento de app em React voltado para estudo pessoal com JSX. Curso Build your first web apps with React ministrado pela Microsoft, segue a linceça e os direitos de uso da estrutura de código clonado do repositorio da Microsoft: 
 
 # Contributing
 
